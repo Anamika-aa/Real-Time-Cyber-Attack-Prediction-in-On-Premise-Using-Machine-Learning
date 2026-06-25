@@ -1,0 +1,2 @@
+{"@timestamp":"2025-06-01T02:10:00Z","rule":{"id":5712,"level":14,"mitre":{"tactic":"credential_access"}},"data":{"srcip":"185.220.101.5","dstip":"192.168.10.12","srcport":58432,"dstport":22,"protocol":"tcp","action":"deny","status":"failure","extra_data":{"count":153}}}
+{"@timestamp":"2025-06-01T09:05:00Z","rule":{"id":1002,"level":3},"data":{"srcip":"192.168.10.20","dstip":"192.168.10.1","srcport":50234,"dstport":80,"protocol":"tcp","action":"allow","status":"success","extra_data":{"count":1}}}
